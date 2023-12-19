@@ -1,0 +1,5 @@
+{
+  "name": "Test token",
+  "symbol": "TTT",
+  "uri": "Path to metadata, reference: https://docs.metaplex.com/programs/token-metadata/token-standard"
+}
